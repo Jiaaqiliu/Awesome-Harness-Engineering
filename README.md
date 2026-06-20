@@ -258,6 +258,7 @@ How to measure whether your agent actually works — evaluation methodology for 
 | Platform | Type | Description |
 |----------|:----:|-------------|
 | [Arize Phoenix](https://github.com/Arize-ai/phoenix) | OSS | OpenTelemetry-based tracing, evals, and experiments for AI |
+| [ax](https://github.com/Necmttn/ax) | OSS | Local-first observability and memory graph for AI coding-agent sessions, costs, skill and tool usage, and OTLP telemetry |
 | [Langfuse](https://langfuse.com/) | OSS | LLM observability: tracing, prompt management, evals (MIT license) |
 | [LangSmith](https://www.langchain.com) | Commercial | Agent engineering platform: tracing, evaluation, deployment |
 | [Braintrust](https://www.braintrust.dev/) | Commercial | AI observability + evaluation; used by Notion, Stripe, Zapier |
