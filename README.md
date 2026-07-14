@@ -346,6 +346,7 @@ Benchmarks that stress **harness quality**, not just model quality — context h
 
 | Project | Description |
 |---------|-------------|
+| [OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay) | Minimal trusted-LAN runtime boundary that launches an existing local agent or automation per request, with keyed access, target verification, bounded conversations, structured JSON output, and explicit failure codes |
 | [SWE-agent](https://github.com/SWE-agent/SWE-agent) | Mature research coding agent with inspectable harness, prompt, tools, and environment |
 | [Harbor](https://github.com/harbor-framework/harbor) | Generalized harness for evaluating and improving agents at scale |
 | [Terminal-Bench](https://github.com/harbor-framework/terminal-bench) | Open-source terminal benchmark implementation |
