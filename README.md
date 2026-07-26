@@ -288,6 +288,7 @@ Benchmarks that stress **harness quality**, not just model quality — context h
 | [tau2-bench](https://github.com/sierra-research/tau2-bench) | 🔄 Multi-step | Realistic multi-step tasks where success depends on tool use and execution quality |
 | [WebArena-Verified](https://github.com/ServiceNow/webarena-verified) | 🌐 Web | Curated web-agent tasks with deterministic evaluators over responses and network traces |
 | [WorkArena](https://github.com/ServiceNow/WorkArena) | 🌐 Enterprise | Common knowledge-work tasks on realistic enterprise-style web workflows |
+| [ClawBench](https://claw-bench.com/) | 🌐 Web | 153 write-heavy tasks across 144 live sites with final-request interception and five-layer trace evaluation; [code](https://github.com/reacher-z/ClawBench) |
 | [GAIA](https://huggingface.co/datasets/gaia-benchmark/GAIA) | 🤖 General | General AI assistant benchmark for tools, planning, verification, and long-horizon autonomy |
 | [HAL: Holistic Agent Leaderboard](https://hal.cs.princeton.edu/) | 📊 Leaderboard | Reliability, cost, and broad task coverage for comparing end-to-end harness behavior |
 | [DPAI Arena](https://blog.jetbrains.com/blog/2025/10/28/introducing-developer-productivity-ai-arena-an-open-platform-for-ai-coding-agents-benchmarks/) — JetBrains | 🔧 Code | Open platform for coding agent benchmarks across full dev lifecycle |
