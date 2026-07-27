@@ -287,6 +287,7 @@ Benchmarks that stress **harness quality**, not just model quality — context h
 | [AgentBench](https://github.com/THUDM/AgentBench) | 🌐 Multi-env | Cross-environment: OS, databases, knowledge graphs, web browsing |
 | [tau2-bench](https://github.com/sierra-research/tau2-bench) | 🔄 Multi-step | Realistic multi-step tasks where success depends on tool use and execution quality |
 | [WebArena-Verified](https://github.com/ServiceNow/webarena-verified) | 🌐 Web | Curated web-agent tasks with deterministic evaluators over responses and network traces |
+| [ClawBench](https://github.com/reacher-z/ClawBench) | 🌐 Web | 153 everyday tasks across 144 live websites, with multi-layer traces and request-level outcome evaluation |
 | [WorkArena](https://github.com/ServiceNow/WorkArena) | 🌐 Enterprise | Common knowledge-work tasks on realistic enterprise-style web workflows |
 | [GAIA](https://huggingface.co/datasets/gaia-benchmark/GAIA) | 🤖 General | General AI assistant benchmark for tools, planning, verification, and long-horizon autonomy |
 | [HAL: Holistic Agent Leaderboard](https://hal.cs.princeton.edu/) | 📊 Leaderboard | Reliability, cost, and broad task coverage for comparing end-to-end harness behavior |
