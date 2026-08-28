@@ -349,6 +349,7 @@ Benchmarks that stress **harness quality**, not just model quality — context h
 | [SWE-agent](https://github.com/SWE-agent/SWE-agent) | Mature research coding agent with inspectable harness, prompt, tools, and environment |
 | [Harbor](https://github.com/harbor-framework/harbor) | Generalized harness for evaluating and improving agents at scale |
 | [Terminal-Bench](https://github.com/harbor-framework/terminal-bench) | Open-source terminal benchmark implementation |
+| [SandBase CLI](https://github.com/sandbaseai/cli) | Provider-agnostic CLI and local MCP bridge that makes model routing, client interoperability, tool dispatch, OAuth, and rollback inspectable in a working harness |
 
 ---
 
