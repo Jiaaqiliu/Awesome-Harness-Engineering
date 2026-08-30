@@ -327,6 +327,7 @@ Benchmarks that stress **harness quality**, not just model quality — context h
 | [AgentKit](https://github.com/inngest/agent-kit) | Inngest | TypeScript toolkit for durable, workflow-aware agents |
 | [Vercel AI SDK](https://ai-sdk.dev/) | Vercel | Unified toolkit for 30+ LLM providers; frontend-to-backend agent infrastructure |
 | [VoltAgent](https://github.com/VoltAgent/ai-agent-platform) | VoltAgent | TypeScript agent platform with orchestration, memory, RAG, and enterprise observability |
+| [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) | SandBase | Local-first, self-hosted agent runtime with persistent sessions, MCP tools, permission boundaries, audit/replay, and local or containerized sandbox deployment paths |
 
 ### Sandbox & Execution Environments
 
