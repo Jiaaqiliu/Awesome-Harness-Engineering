@@ -443,6 +443,7 @@ Papers advancing the theoretical and empirical foundations of harness engineerin
 
 | Paper | Venue/Date | Key Contribution |
 |-------|:----------:|------------------|
+| [Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report](https://arxiv.org/abs/2608.15763) | arXiv, Aug 2026 | Harness-state augmentation trains compact agents to adapt to changing Skills, tools, prompts, and Hooks |
 | [Building Effective AI Coding Agents for the Terminal](https://arxiv.org/abs/2603.05344) | arXiv, Mar 2026 | OpenDev agent; scaffolding vs. harness architecture distinction |
 | [Natural-Language Agent Harnesses](https://arxiv.org/abs/2603.25723) | arXiv, Mar 2026 | Harness-level control via natural language: roles, contracts, verification gates |
 | [Agentic Context Engineering (ACE)](https://arxiv.org/abs/2510.04618) | arXiv, Oct 2025 | Contexts as evolving playbooks; 14.8% improvement over ReAct |
