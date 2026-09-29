@@ -154,6 +154,7 @@ How agents persist knowledge, recover from interruptions, and maintain state acr
 | [Mem0](https://github.com/mem0ai/mem0) | Hybrid storage (Postgres + vector); extracts memories with ADD/UPDATE/DELETE operations; up to 26% accuracy gains |
 | [Zep](https://github.com/getzep/zep) | Temporal knowledge graph tracking how facts change over time; combines graph memory with vector search |
 | [Cognee](https://github.com/topoteretes/cognee) | Knowledge graph layer that structures, connects, and retrieves information as interconnected knowledge |
+| [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) | Developer-alpha encrypted, append-only knowledge store for context across agent sessions, with scoped, expiring MCP grants |
 
 ### Structured Output (Agent I/O Harness)
 
