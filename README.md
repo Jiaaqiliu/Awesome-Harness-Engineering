@@ -346,6 +346,7 @@ Benchmarks that stress **harness quality**, not just model quality — context h
 
 | Project | Description |
 |---------|-------------|
+| [Cage](https://github.com/vitalik1921/cage) | TypeScript coding-agent harness that gates Claude Code or Codex on contract compatibility, invariant-to-test links, and stale spec/code/test reviews. |
 | [SWE-agent](https://github.com/SWE-agent/SWE-agent) | Mature research coding agent with inspectable harness, prompt, tools, and environment |
 | [Harbor](https://github.com/harbor-framework/harbor) | Generalized harness for evaluating and improving agents at scale |
 | [Terminal-Bench](https://github.com/harbor-framework/terminal-bench) | Open-source terminal benchmark implementation |
