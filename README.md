@@ -196,6 +196,7 @@ Reducing approval friction without losing control — sandboxing, policy design,
 | [Invariant MCP-scan](https://github.com/invariantlabs-ai/invariant) | Security scanner for MCP servers: prompt injection, tool poisoning detection |
 | [NeMo Guardrails](https://developer.nvidia.com/nemo-guardrails) — NVIDIA | Open-source programmable guardrails; sub-100ms latency; GPU-accelerated |
 | [Guardrails AI](https://guardrailsai.com/) | Open-source framework for LLM output validation |
+| [sofagent](https://github.com/KongFangXun/sofagent) | Open-source (MIT) commit-time audit harness: 28 git-diff rules as a git hook, HMAC-chained audit logs, snapshot rollback |
 
 ---
 
