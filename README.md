@@ -443,6 +443,7 @@ Papers advancing the theoretical and empirical foundations of harness engineerin
 
 | Paper | Venue/Date | Key Contribution |
 |-------|:----------:|------------------|
+| [Recursive Harness Distillation across Agents for Robot Manipulation](https://arxiv.org/abs/2609.33378) | arXiv, Sep 2026 | Distills Astra's robot-intervention experience into a reusable playbook for Luna and recursively refines it from Luna's execution feedback without weight updates |
 | [Building Effective AI Coding Agents for the Terminal](https://arxiv.org/abs/2603.05344) | arXiv, Mar 2026 | OpenDev agent; scaffolding vs. harness architecture distinction |
 | [Natural-Language Agent Harnesses](https://arxiv.org/abs/2603.25723) | arXiv, Mar 2026 | Harness-level control via natural language: roles, contracts, verification gates |
 | [Agentic Context Engineering (ACE)](https://arxiv.org/abs/2510.04618) | arXiv, Oct 2025 | Contexts as evolving playbooks; 14.8% improvement over ReAct |
