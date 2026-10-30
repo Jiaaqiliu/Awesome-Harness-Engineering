@@ -208,6 +208,7 @@ How to tell agents what to do — repo-local instruction files and machine-reada
 | Project | Description |
 |---------|-------------|
 | [AGENTS.md](https://github.com/agentsmd/agents.md) | Open format for repo-local instructions; [intro by OpenAI](https://openai.com/index/introducing-agents-md/) |
+| [Agent Role Contracts](https://github.com/suirindo/agent-role-contracts) | Offline Node.js validation of declared agent roles, task scopes, review separation and handoffs; does not grant execution authority or enforce runtime permissions |
 | [agent.md](https://github.com/agentmd/agent.md) | Related standardization effort for machine-readable agent instructions |
 | [GitHub Spec Kit](https://github.com/github/spec-kit) | Toolkit for spec-driven development — agents execute against explicit specs |
 | [Writing a good CLAUDE.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md) | Practical guide to creating durable, repo-local instructions; 150–200 instruction limit |
